@@ -1,0 +1,4 @@
+Nombre: Hugo Martínez
+Edad: 22 años
+Fecha de nacimiento: 5/06/2026
+Color favorito: Negro
